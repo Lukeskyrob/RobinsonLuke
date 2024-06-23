@@ -10,3 +10,6 @@
     <p>This is my personal website hosted on GitHub Pages.</p>
 </body>
 </html>
+git add .
+git commit -m "Initial commit"
+git push origin main
